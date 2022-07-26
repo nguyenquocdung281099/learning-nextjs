@@ -1,0 +1,8 @@
+NEXTJS
+- method render
+  1, SSR
+  2, CSR
+  3, SSG => giai đoạn build code sẽ generation html trc
+  4, ISR => sử dụng đối với TH có rất nhiều sp,… => build trc một số sp hot, trending
+
+- Routing
